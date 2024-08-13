@@ -1,0 +1,22 @@
+.masthead {
+    position: relative;
+    padding: 70px 0;
+    overflow: hidden; 
+}
+
+.masthead .background-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('background.jpg') no-repeat center center;
+    background-size: cover;
+    opacity: 0.3;
+    z-index: -1;
+}
+
+
+h1, h2, p {
+    font-family: 'Fira Sans', sans-serif;
+}
