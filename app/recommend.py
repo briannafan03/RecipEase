@@ -4,7 +4,6 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 from scipy import sparse
 import pickle
-
 from fuzzywuzzy import process
 import random
 
@@ -87,10 +86,3 @@ def find_similar_recipes(user_input):
         recommendations = [recipe_name for j, recipe_name in enumerate(user_input_data['recipe2_name'].unique()) if j < 3]
 
     return recommendations
-
-
-"""# Get user input and find similar recipes
-user_input = input("What recipe are you thinking of? ")
-print ("Since you liked:", user_input)
-print("You should try these 3 similar recipes")
-find_similar_recipes(user_input)"""
