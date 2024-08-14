@@ -1,6 +1,6 @@
 # RecipEase
 
-A recipe recommender
+Personalized recipe recommender utilizing a sentence transformer model. Contains Python code and HTML, CSS, Flask.
 
 run "pip install -r requirements.txt"
 
