@@ -4,15 +4,11 @@ Personalized recipe recommender utilizing a sentence transformer model. Contains
 
 Training data retrieved from https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions
 
-# Clone the repository:
-
-##
-<tab><tab>code/git clone <repository_url>
-
-# Install the required dependencies:
-
+After cloning the repository, install the required dependencies: 
+```bash
 pip install -r requirements.txt
-
-# Run the application:
-
+```
+Run the application:
+```bash
 python3 run.py
+```
