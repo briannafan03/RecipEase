@@ -2,18 +2,16 @@
 
 Personalized recipe recommender utilizing a sentence transformer model. Contains Python code and HTML, CSS, Flask.
 
-run "pip install -r requirements.txt"
+Training data retrieved from https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions
 
-run "python3 run.py" to see project
-
-Clone the repository:
+# Clone the repository:
 
 git clone <repository_url>
-Install the required dependencies:
+
+# Install the required dependencies:
 
 pip install -r requirements.txt
-Set up the database:
 
-Run the application:
+# Run the application:
 
-python main.py
+python3 run.py
