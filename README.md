@@ -6,7 +6,8 @@ Training data retrieved from https://www.kaggle.com/datasets/shuyangli94/food-co
 
 # Clone the repository:
 
-git clone <repository_url>
+##
+<tab><tab>code/git clone <repository_url>
 
 # Install the required dependencies:
 
