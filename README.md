@@ -1,6 +1,6 @@
 # RecipEase
 
-Personalized recipe recommender utilizing a sentence transformer model. Contains Python code and HTML, CSS, Flask.
+Personalized recipe recommender utilizing a sentence transformer model. Utilizes Python, HTML/CSS, and Flask.
 
 Training data retrieved from https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions
 #
